@@ -46,6 +46,22 @@ Dentro de Estadísticas, el selector superior alterna entre tres vistas. **Estad
 
 Capturas del emulador con datos simulados: [Estadísticas](docs/capturas/estadisticas.png), [Actividades](docs/capturas/actividades.png) e [Insights](docs/capturas/insights.png).
 
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 3 56 49 PM (4)" src="https://github.com/user-attachments/assets/f7946398-9046-4ef6-83aa-8ccd8597e809" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 3 56 49 PM (3)" src="https://github.com/user-attachments/assets/b8bb02e0-7b18-4f3d-87b1-cecbf24d0b8a" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 3 56 49 PM (2)" src="https://github.com/user-attachments/assets/f060bf3c-c3db-418d-922b-63d488d03dbc" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 3 56 49 PM (1)" src="https://github.com/user-attachments/assets/f996edc9-0dc5-4e32-bda7-c1e8e7b27c77" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 3 56 49 PM" src="https://github.com/user-attachments/assets/3fd33997-a848-4881-8f14-6a40a7239724" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 3 56 48 PM (5)" src="https://github.com/user-attachments/assets/39690400-c5ec-40d3-a3a3-2e61168868d0" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 3 56 48 PM (4)" src="https://github.com/user-attachments/assets/9c7f27e9-2f91-42be-b0db-1e97caca46af" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 3 56 48 PM (3)" src="https://github.com/user-attachments/assets/a913a69c-91ea-4c82-8832-2d8e997e7b92" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 3 56 48 PM (2)" src="https://github.com/user-attachments/assets/8b69db39-0c68-4e89-b673-1d579304d929" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 3 56 48 PM (1)" src="https://github.com/user-attachments/assets/e8ba4578-f967-496f-872a-21dc321f2314" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 3 56 48 PM" src="https://github.com/user-attachments/assets/871cf2b0-c442-4942-8b08-7ad3a3b6f737" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 3 56 47 PM (2)" src="https://github.com/user-attachments/assets/58d4f80b-7a2b-463b-ad8e-e9ce6384ec73" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 3 56 47 PM (1)" src="https://github.com/user-attachments/assets/428932cd-46e9-4e68-895d-30afad9efaa5" />
+<img width="720" height="1600" alt="WhatsApp Image 2026-11-05 at 3 56 47 PM" src="https://github.com/user-attachments/assets/e0c3615f-1f4a-4d59-812e-c11cb56b8454" />
+
+
 ## Historial, perfil y apariencia
 
 En Inicio, toca **Historial de emociones** para desplegar la lista y toca cada entrada para ver sus detalles. Desde **Ajustes → Apariencia** puedes elegir **Sistema**, **Claro** u **Oscuro**. La opción Sistema sigue los cambios de Android y la selección se conserva al reiniciar.
