@@ -1,0 +1,10 @@
+MOODWAVE — PARA EL EQUIPO
+
+Abrir en Android Studio:
+1. Extraer este ZIP.
+2. Android Studio > File > Open.
+3. Seleccionar la carpeta extraída que contiene settings.gradle.kts.
+4. Esperar Gradle Sync; puede pedir Android SDK Platform 37.
+5. Ejecutar la configuración app en un dispositivo o emulador Android API 26 o posterior.
+
+El archivo incluye fuentes, documentación, capturas y video de demostración. Se excluyeron cachés de compilación, rutas locales y APKs precompilados; para ver la versión más reciente, compilar desde estas fuentes. La sincronización inicial requiere Internet para descargar Gradle y dependencias.

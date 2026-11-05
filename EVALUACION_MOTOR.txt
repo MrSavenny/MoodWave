@@ -1,0 +1,16 @@
+Validación independiente del motor estadístico con kotlinc 1.9.0 / Java 21.
+No se compiló la aplicación Android: no había Android SDK/Gradle.
+
+Con datos DEMO (semilla 2027), fecha 2026-11-04:
+- n=90, 90 días distintos, 30 con Ejercicio, 60 sin Ejercicio.
+- Media emocional de toda la muestra: 11.7666666667 / 20.
+- Diferencia con Ejercicio vs sin Ejercicio: +7.05 puntos.
+- d de Cohen: 4.4583049041. Tamaño extremo plantado a propósito para testear el detector.
+- Insight detectado: Ejercicio.
+- Evaluación 4 escenarios: positivo, negativo, nulo, insuficiente = 4/4 correctos.
+- Baseline constante "sin patrón": 2/4 correctos.
+- Comprobación manual (1, 2, 2, 3): media=2, mediana=2, moda=2, desviación muestral=0.8164965809, racha=3.
+
+Los cuatro escenarios fueron artificiales: el desempeño no puede extrapolarse a registros reales.
+Pruebas JUnit incluidas en app/src/test/java/com/example/moodwave/analytics/MoodAnalyticsTest.kt.
+Ejecutar en Android Studio: gradlew.bat testDebugUnitTest

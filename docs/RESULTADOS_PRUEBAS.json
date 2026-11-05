@@ -1,0 +1,54 @@
+{
+  "jvm_tests": 26,
+  "jvm_failures": 0,
+  "suites": [
+    {
+      "name": "com.example.moodwave.analytics.Integration2Test",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "name": "com.example.moodwave.analytics.MoodAnalyticsTest",
+      "tests": 7,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "name": "com.example.moodwave.analytics.NextDayForecastTest",
+      "tests": 3,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "name": "com.example.moodwave.CloudClientTest",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "name": "com.example.moodwave.data.EncryptedBackupTest",
+      "tests": 5,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "name": "com.example.moodwave.ExampleUnitTest",
+      "tests": 1,
+      "failures": 0,
+      "errors": 0
+    },
+    {
+      "name": "com.example.moodwave.ReminderScheduleTest",
+      "tests": 2,
+      "failures": 0,
+      "errors": 0
+    }
+  ],
+  "android_tests": 4,
+  "android_failures": 0,
+  "android_device": "Pixel 7 AVD / Android 17 / isolated finalqa package",
+  "cloud": "MockWebServer only; no external cloud account",
+  "health": "Permission grant and empty read verified; no wearable data",
+  "video_seconds": 104.7959
+}

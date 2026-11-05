@@ -1,0 +1,9 @@
+MOODWAVE — abrir en Android Studio
+
+1. Extrae este ZIP en una carpeta local.
+2. En Android Studio, elige File > Open y selecciona la carpeta MoodWave_Etapa2 - copia (la que contiene settings.gradle.kts).
+3. Instala Android SDK Platform 37 desde Tools > SDK Manager si Android Studio lo solicita. Usa el JDK integrado (JBR) de Android Studio.
+4. Espera a que termine Gradle Sync. Crea o inicia un emulador Android API 26 o posterior, selecciona la configuración app y pulsa Run.
+5. El APK debug incluido está en entrega/MoodWave-debug.apk.
+
+La ruta del SDK se configura localmente al abrir; no se comparte local.properties. Gradle Wrapper descargará Gradle 9.5 la primera vez, por lo que se requiere Internet para la sincronización inicial. Para crear el APK desde Windows: gradlew.bat assembleDebug.
